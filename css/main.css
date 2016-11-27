@@ -1,0 +1,13 @@
+/*/////////////// FONTS ////////////////*/
+
+@import 'https://fonts.googleapis.com/css?family=Arimo:400,700';
+@import 'https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css';
+
+/*/////////////// RESETS ///////////////*/
+
+@import 'https://cdnjs.cloudflare.com/ajax/libs/normalize/4.1.1/normalize.css';
+
+/*//////////// CUSTOM STYLE ////////////*/
+
+@import 'style.css';
+@import 'grid.css';
